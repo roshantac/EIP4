@@ -1,0 +1,10 @@
+1. Convolution: its used to find the similarity of any two objects.
+2. Filters/Kernals : its used to check the presence of certain patterns in the 
+ image(or any other data), we convolve the filter with image and if its present we will get high value else a lower value.
+3. Epochs : its nothing but how many times the training is repeating, on repeating the weights get adjusted more in backpropogation yields to better accuracy.
+4. 1x1 Convolution: its used to merge multiple layers(channels) into single. or to extract information from multiple channel and put into another single matrix.
+5. 3x3 Convolution : commonly used kernel in Deeplearning. used to extract features. its weights are updated using backprop algorithm.
+6. Feature maps: basic element used to extract information from image.
+7. Activation Function: its a function which ignor irrelevant things in image using a threshold value.
+8. Receptive field: output field created after operation such as convolution or pooling etc. 
+
