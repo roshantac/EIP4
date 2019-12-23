@@ -2,6 +2,19 @@
 
 FINAL RESULT
 
+-gender_output_acc: 0.9708 
+-image_quality_output_acc: 0.9003
+-age_output_acc: 0.8498 
+-weight_output_acc: 0.9040
+-bag_output_acc: 0.9184 
+-footwear_output_acc: 0.9313
+-pose_output_acc: 0.9597
+-emotion_output_acc: 0.9035
+
+
+
+
+
 Epoch 50/50
 359/360 [============================>.] - ETA: 0s - loss: 1.7396 - gender_output_loss: 0.0779 - image_quality_output_loss: 0.2510 - age_output_loss: 0.3864 - weight_output_loss: 0.2472 - bag_output_loss: 0.2196 - footwear_output_loss: 0.1850 - pose_output_loss: 0.1168 - emotion_output_loss: 0.2557 - gender_output_acc: 0.9708 - image_quality_output_acc: 0.9003 - age_output_acc: 0.8498 - weight_output_acc: 0.9040 - bag_output_acc: 0.9184 - footwear_output_acc: 0.9313 - pose_output_acc: 0.9597 - emotion_output_acc: 0.9035
 360/360 [==============================] - 195s 542ms/step - loss: 1.7404 - gender_output_loss: 0.0780 - image_quality_output_loss: 0.2511 - age_output_loss: 0.3863 - weight_output_loss: 0.2474 - bag_output_loss: 0.2197 - footwear_output_loss: 0.1852 - pose_output_loss: 0.1167 - emotion_output_loss: 0.2561 - gender_output_acc: 0.9707 - image_quality_output_acc: 0.9002 - age_output_acc: 0.8499 - weight_output_acc: 0.9041 - bag_output_acc: 0.9182 - footwear_output_acc: 0.9312 - pose_output_acc: 0.9597 - emotion_output_acc: 0.9031 - val_loss: 0.8452 - val_gender_output_loss: 0.0288 - val_image_quality_output_loss: 0.1677 - val_age_output_loss: 0.1811 - val_weight_output_loss: 0.1185 - val_bag_output_loss: 0.0973 - val_footwear_output_loss: 0.0913 - val_pose_output_loss: 0.0313 - val_emotion_output_loss: 0.1293 - val_gender_output_acc: 0.9930 - val_image_quality_output_acc: 0.9441 - val_age_output_acc: 0.9502 - val_weight_output_acc: 0.9641 - val_bag_output_acc: 0.9761 - val_footwear_output_acc: 0.9805 - val_pose_output_acc: 0.9934 - val_emotion_output_acc: 0.9610
